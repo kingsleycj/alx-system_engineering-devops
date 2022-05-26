@@ -1,2 +1,2 @@
 #!/bin/bash
-ps
+ls -la ps
