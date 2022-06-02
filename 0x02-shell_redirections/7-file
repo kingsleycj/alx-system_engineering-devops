@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/bas
 echo "Best School" | cat > '\\\'\''"Best School"\'\''\\$\?\\\\\*:)'
